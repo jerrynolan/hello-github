@@ -7,4 +7,7 @@ BIG DEAL: There's only one rule: **anything in the master branch is always deplo
 
 That line is in this file https://guides.github.com/introduction/flow/index.html
 
+I need to learn work through this page next: https://developer.github.com/guides/getting-started/
+
+
 
